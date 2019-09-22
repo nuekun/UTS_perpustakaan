@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS</string>
+
+    <string-array name="Riwayat">
+        <item>semua</item>
+        <item>dipinjam</item>
+        <item>kembali</item>
+    </string-array>
+</resources>
